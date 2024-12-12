@@ -1,0 +1,4 @@
+type: install
+name: Test log from private repo
+onInstall:
+  - log: Private repo manifest accessed
