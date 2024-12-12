@@ -1,0 +1,7 @@
+type: update
+name: Test update from public repo
+
+targetNodes: any
+
+onInstall:
+  - log: Public repo manifest accessed
