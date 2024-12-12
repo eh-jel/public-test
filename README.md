@@ -1,2 +1,2 @@
-# secretTest Repo
-If you read this, HTTP auth passed successfully
+# Public Repo
+Public repo description
